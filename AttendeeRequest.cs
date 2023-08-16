@@ -32,7 +32,7 @@ public class AttendeeRequest : MonoBehaviour
         using (UnityWebRequest webRequest = UnityWebRequest.Get(uri))
         {
 
-                webRequest.SetRequestHeader("Authorization", "Bearer " + "G67DXMXIIUQPKOE5MBMM");
+                webRequest.SetRequestHeader("Authorization", "Bearer " + "");
                     //www.SetRequestHeader("Authorization", "Bearer " + token);
                 // Request and wait for the desired page.
                 yield return webRequest.SendWebRequest();
