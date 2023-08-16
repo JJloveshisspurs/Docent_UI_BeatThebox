@@ -8,14 +8,14 @@ public class EventBriteOauthTest : MonoBehaviour
 {
 
 
-    private const string _API_KEY = "HUH4MH33LQN7NUB4QB";
-    private const string _CLIENT_SECRET = "QBBAJT4TJ7AMUFVDNLHYF3FEVQAYLRLJCHDWPPFC4PGU3XXVPY";
-    private const string _PRIVATE_TOKEN = "G67DXMXIIUQPKOE5MBMM";
-    private const string _PUBLIC_TOKEN = "4NOSJOH73MIGTQSSFXD";
-    private const string _REDIRECT__URI = "4NOSJOH73MIGTQSSFXD";
+    private const string _API_KEY = "Nunya";
+    private const string _CLIENT_SECRET = "Nunya2";
+    private const string _PRIVATE_TOKEN = "Nunya3";
+    private const string _PUBLIC_TOKEN = "Nunya4";
+    private const string _REDIRECT__URI = "Nunya5";
 
     //*** Event ID code for Beat the Box
-    private const string EVENT_ID = "622581828007";
+    private const string EVENT_ID = "62258182800723";
     private const string ATTENDEE_TEST_ID = "6466110299";
 
 
